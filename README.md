@@ -53,3 +53,10 @@ Export the cleaned and transformed dataset to a .csv file.
 Import the CSV file into Power BI.
 Create visualizations such as sales trends, top-performing products, store comparisons, and category-wise performance.
 Format the dashboard for readability and share or publish it for stakeholder access.
+
+
+
+![Screenshot 2025-05-30 170442](https://github.com/user-attachments/assets/2e523f10-3f39-441a-8e94-b387afb6442c)
+
+
+
