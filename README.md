@@ -1,7 +1,8 @@
 **Project Steps**
+
 **1. Set Up the Environment**
-Tools Used: Visual Studio Code (VS Code), Python,jupyter notebook
-Goal: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
+Tools Used: Visual Studio Code (VS Code), Python,jupyter notebook, Power BI
+Goal: Establish a structured and organized workspace for seamless data analysis and visualization. Use VS Code for data preprocessing and scripting, Jupyter Notebook for exploratory data analysis, and Power BI for creating interactive dashboards and visual insights.
 
 **2. Set Up Kaggle API**
 API Setup: Obtain your Kaggle API token from Kaggle by navigating to your profile settings and downloading the JSON file.
@@ -32,3 +33,11 @@ Validation: Check for any remaining inconsistencies and verify the cleaned data.
 
 **7. Feature Engineering**
 Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
+
+**8.Create and Display Power BI Dashboard**
+Goal: Visualize key insights from the Walmart sales data using Power BI.
+Steps:
+Export the cleaned and transformed dataset to a .csv file.
+Import the CSV file into Power BI.
+Create visualizations such as sales trends, top-performing products, store comparisons, and category-wise performance.
+Format the dashboard for readability and share or publish it for stakeholder access.
