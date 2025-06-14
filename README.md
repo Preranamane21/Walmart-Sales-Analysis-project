@@ -56,7 +56,7 @@ Format the dashboard for readability and share or publish it for stakeholder acc
 
 
 
-![Screenshot 2025-05-30 170442](https://github.com/user-attachments/assets/2e523f10-3f39-441a-8e94-b387afb6442c)
+![Image](https://github.com/user-attachments/assets/03c5091a-2c35-4734-8734-1e6de15ace1f)
 
 
 
