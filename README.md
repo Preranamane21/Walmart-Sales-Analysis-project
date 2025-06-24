@@ -55,8 +55,7 @@ Create visualizations such as sales trends, top-performing products, store compa
 Format the dashboard for readability and share or publish it for stakeholder access.
 
 
-
-![Image](https://github.com/user-attachments/assets/03c5091a-2c35-4734-8734-1e6de15ace1f)
+![Image](https://github.com/user-attachments/assets/db345c3d-ac94-4d31-ba47-b7e186a7cafe)
 
 
 
