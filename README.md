@@ -39,23 +39,24 @@ Fix Data Types: Ensure all columns have consistent data types (e.g., dates as da
 Currency Formatting: Use .replace() to handle and format currency values for analysis.
 Validation: Check for any remaining inconsistencies and verify the cleaned data.
 
-**7. Feature Engineering**
 
-Create New Columns: Calculate the Total Amount for each transaction by multiplying unit_price by quantity and adding this as a new column.
-
-**8.Create and Display Power BI Dashboard**
+**7.Create and Display Power BI Dashboard**
 
 Goal: Visualize key insights from the Walmart sales data using Power BI.
 
 Steps:
 
 Export the cleaned and transformed dataset to a .csv file.
+
 Import the CSV file into Power BI.
-Create visualizations such as sales trends, top-performing products, store comparisons, and category-wise performance.
+
+Create visualizations such as sales trends,Maximum profit margins, and customer ratings, enabling data-driven retail strategies.
+
 Format the dashboard for readability and share or publish it for stakeholder access.
 
 
-![Image](https://github.com/user-attachments/assets/db345c3d-ac94-4d31-ba47-b7e186a7cafe)
+
+<img width="1325" height="738" alt="Image" src="https://github.com/user-attachments/assets/9667e010-1f5e-44ff-aa3b-6211998f898a" />
 
 
 
